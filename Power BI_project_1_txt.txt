@@ -1,0 +1,27 @@
+Data Description:
+
+The dataset used in this Power BI dashboard is based on a survey conducted among data professionals. It captures a variety of information related to respondents' roles, career transitions, salary, job satisfaction, and more. The dataset contains the following key fields:
+
+Unique ID: A unique identifier for each survey response.
+Email: Email addresses of respondents (anonymized for privacy).
+Date Taken (America/New_York): Date of survey submission in the America/New_York time zone.
+Time Taken (America/New_York): Time of survey submission in the America/New_York time zone.
+Browser: The web browser used by respondents.
+OS: The operating system of the respondents' devices.
+City: The city of the respondents.
+Country: The country of residence of the respondents.
+Referrer: The source through which respondents accessed the survey.
+Time Spent: Time spent by respondents in completing the survey.
+Q1 to Q13: Multiple-choice and open-ended questions capturing respondents' demographics, career transitions, salary, job satisfaction, education, and more.
+Dashboard Description:
+
+This Power BI dashboard has been created to analyze and visualize insights derived from the survey data. It offers a comprehensive view of various aspects of the data professional community. Here's an overview of the key components of the dashboard:
+
+Average Salary by Job Role (Bar Chart): Visualizes salary differences among different job roles.
+How Many Switched Careers (Doughnut Graph): Highlights the prevalence of career transitions into data-related roles.
+Job Role with Highest Education: Shows job roles associated with the highest levels of education.
+Favorite Programming Language with Current Job Role: Displays preferred programming languages by job role.
+Index Showing Happiness with Respect to Salary and Work/Life Balance: Provides a quick overview of job satisfaction.
+Average Salary by Gender (Pie Plot): Examines gender-based salary distributions.
+Average Salary by Country (Tree Map): Compares average salaries by country.
+Cards Showing Count of Survey Takers and Average Age: Offers basic demographic statistics.
